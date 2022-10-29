@@ -33,3 +33,4 @@ Initial Spread Index (ISI) index from the FWI system: 0 to 18.5
 Buildup Index (BUI) index from the FWI system: 1.1 to 68
 Fire Weather Index (FWI) Index: 0 to 31.1
 Classes: two classes, namely Fire and not Fire
+
